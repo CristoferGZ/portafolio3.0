@@ -1,0 +1,21 @@
+.imagen1 {
+background-image: url(goku.png);
+width: 300px;
+height: 300px;
+background-size: cover;
+margin: 0;
+}
+.imagen2 {
+    background-image: url(avion.PNG);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    margin: 0;  
+}
+.imagen3 {
+    background-image: url(pacman.PNG);
+width: 300px;
+height: 300px;
+background-size: cover;
+margin: 0;
+}
